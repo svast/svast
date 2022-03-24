@@ -2,7 +2,7 @@
 
 **I'm Steph** - I used to be full-stack dev, designer and software architect. I'm still interested in development, although I mostly manage projects and facilitate stuff to happen.
 
-[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,html,css,py,java,idea,linux,md,nginx)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=bash,c,cpp,html,css,py,java,idea,linux,md,nginx)](https://skillicons.dev)<br/>
 
 💬 You can ask me about digital trust in general, more precisely on trusted digital signatures.
 
